@@ -1,4 +1,4 @@
-import react, {useEffect, useState} form 'react;
+import react, {useEffect, useState} from 'react;
 
 import "./App.css";
 
